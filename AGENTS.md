@@ -47,3 +47,17 @@ Priority order:
 2. visual rules
 3. semantic OCR summaries
 4. raw OCR output
+
+## Vision first rule
+
+If the agent has vision capabilities:
+
+- use the reference images as the primary source of truth
+- do not use OCR files as the primary interpretation layer
+- use OCR only as optional support when some text in the image is hard to read
+
+If the agent does not have vision capabilities:
+
+- use `SCREEN_INTENT.md`, `VISUAL_RULES.md`, `ocr/`, and `ui_state/`
+- treat OCR as the fallback perception layer
+- do not assume OCR should override the documented desired state
