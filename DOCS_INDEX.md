@@ -50,3 +50,17 @@
 - `ANTI_PATTERNS.md` - mistakes to avoid
 - `PROMPTS.md` - reusable agent prompts
 - `EXAMPLES.md` - reference examples
+
+## Governance, quality, and strategy docs
+- `VISION.md` - long term purpose and design principles
+- `NON_GOALS.md` - explicit out of scope items
+- `ASSUMPTIONS.md` - working assumptions to review over time
+- `RISKS.md` - main failure modes and mitigations
+- `POLICIES.md` - operating policies for docs, agents, and handoff
+- `CONSTRAINTS.md` - hard constraints and interpretation boundaries
+- `SUCCESS_CRITERIA.md` - conditions for success and failure signals
+- `INTERFACES.md` - human, agent, vision, and fallback interfaces
+- `QUALITY.md` - quality attributes and review rules
+- `TEST_PLAN.md` - validation plan for the documentation system
+- `METRICS.md` - measurable signals for repo maturity
+- `GOVERNANCE.md` - ownership and review model
