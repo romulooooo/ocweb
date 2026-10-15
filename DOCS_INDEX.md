@@ -36,3 +36,10 @@
 - `DECISIONS.md` - important high level decisions
 - `TEMPLATES.md` - reusable markdown templates
 - `GLOSSARY.md` - shared terminology and meanings
+
+## Additional docs
+- `SPEC.md` - working specification and success criteria
+- `RFC.md` - design proposal and reasoning
+- `RUNBOOK.md` - operational execution steps
+- `PLAYBOOK.md` - reusable agent patterns
+- `COMMANDS.md` - common repository commands
