@@ -27,3 +27,12 @@
 - `docs/deploy.md`
 - `docs/database.md`
 - `docs/decisions/001.md`
+
+## Operational docs
+- `WORKFLOW.md` - standard repository execution flow
+- `CHECKLIST.md` - validation checklist before completion
+- `STATE.md` - current repository status and focus
+- `RULES.md` - general repository and agent rules
+- `DECISIONS.md` - important high level decisions
+- `TEMPLATES.md` - reusable markdown templates
+- `GLOSSARY.md` - shared terminology and meanings
