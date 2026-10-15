@@ -1,0 +1,20 @@
+{
+  "screen_id": "desired",
+  "source_image": "images/estado_desejado_apenas_terminal.png",
+  "meaning": "target state",
+  "goal_relation": "this is the expected final state",
+  "main_visible_elements": [
+    {"type": "window", "name": "terminal", "state": "visible and dominant"}
+  ],
+  "semantic_summary": [
+    "only the terminal should remain visible",
+    "visual clutter should be removed",
+    "the terminal should be the main focus"
+  ],
+  "success_criteria": [
+    "no browser window visible",
+    "no file manager visible",
+    "no extra desktop content competing with the terminal",
+    "terminal is clearly the only active visible window"
+  ]
+}

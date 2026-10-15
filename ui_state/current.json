@@ -1,0 +1,17 @@
+{
+  "screen_id": "current",
+  "source_image": "images/estado_atual_tela_completa.png",
+  "meaning": "starting point only",
+  "goal_relation": "this is not the target state",
+  "main_visible_elements": [
+    {"type": "window", "name": "terminal", "state": "visible"},
+    {"type": "window", "name": "other desktop content", "state": "visible"},
+    {"type": "workspace", "name": "visual clutter", "state": "present"}
+  ],
+  "semantic_summary": [
+    "the workspace is cluttered",
+    "the terminal is present but not isolated",
+    "other windows or desktop elements are still visible"
+  ],
+  "agent_instruction": "do not stop here; continue cleaning the workspace until only the terminal remains visible"
+}
