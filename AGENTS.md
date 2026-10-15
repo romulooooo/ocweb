@@ -30,3 +30,20 @@ The agent should leave the screen in a clean state where:
 - the terminal should be the main focus
 
 See also `VISUAL_RULES.md` and `CONTEXT.md`.
+
+## Non vision fallback
+
+If an agent cannot read images directly, use:
+
+- `SCREEN_INTENT.md`
+- `VISUAL_RULES.md`
+- `ocr/estado_atual.txt`
+- `ocr/estado_desejado.txt`
+- `ui_state/current.json`
+- `ui_state/desired.json`
+
+Priority order:
+1. desired state files
+2. visual rules
+3. semantic OCR summaries
+4. raw OCR output

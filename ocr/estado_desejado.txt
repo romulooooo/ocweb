@@ -1,0 +1,12 @@
+Source image: images/estado_desejado_apenas_terminal.png
+Role: desired state
+
+Human readable summary:
+- This image shows the final target layout.
+- Only the terminal should remain visible.
+- Visual clutter should be removed.
+- The terminal should be the clear main focus.
+
+Practical interpretation for a non vision model:
+- Success means the terminal is the only visible main window.
+- Do not leave browser, file manager, or other windows competing for space.

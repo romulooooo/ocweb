@@ -1,0 +1,13 @@
+Source image: images/estado_atual_tela_completa.png
+Role: current state
+
+Human readable summary:
+- This image shows the workspace before cleanup.
+- The terminal exists, but it is not the only visible element.
+- Other windows or desktop elements are still visible.
+- An agent should treat this image as the starting point only.
+- This is not the final layout.
+
+Practical interpretation for a non vision model:
+- The workspace still needs cleanup.
+- Continue closing, hiding, or minimizing non terminal elements.

@@ -1,0 +1,4 @@
+Terminal 1 < Terminal 2
+
+userGe2b:/$ mkdir -p ~/Downloads && scrot ~/Downloads/screenshot.png && 1s -1 ~/Downloads/screenshot . png
+
