@@ -43,3 +43,10 @@
 - `RUNBOOK.md` - operational execution steps
 - `PLAYBOOK.md` - reusable agent patterns
 - `COMMANDS.md` - common repository commands
+
+## Session and guidance docs
+- `SESSION.md` - current session tracking
+- `HANDOFF.md` - next operator handoff notes
+- `ANTI_PATTERNS.md` - mistakes to avoid
+- `PROMPTS.md` - reusable agent prompts
+- `EXAMPLES.md` - reference examples
