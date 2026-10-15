@@ -1,0 +1,3 @@
+# PLAN
+
+Execution plan placeholder.
