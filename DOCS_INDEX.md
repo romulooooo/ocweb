@@ -64,3 +64,28 @@
 - `TEST_PLAN.md` - validation plan for the documentation system
 - `METRICS.md` - measurable signals for repo maturity
 - `GOVERNANCE.md` - ownership and review model
+
+## Future docs to consider later
+
+- `PRECEDENCE.md`
+- `SOURCE_OF_TRUTH.md`
+- `OPERATING_MODEL.md`
+- `DECISION_MATRIX.md`
+- `FAILURE_MODES.md`
+- `RECOVERY.md`
+- `VALIDATION_RULES.md`
+- `TRACEABILITY.md`
+- `CHANGE_POLICY.md`
+- `ESCALATION.md`
+- `PERMISSIONS.md`
+- `ARTIFACTS.md`
+- `NAMING.md`
+- `REVIEW_GUIDE.md`
+- `DONE_DEFINITION.md`
+- `INTAKE.md`
+- `PLANNING_PROTOCOL.md`
+- `EXECUTION_PROTOCOL.md`
+- `OBSERVATION_PROTOCOL.md`
+- `HANDSHAKE.md`
+- `CONFLICT_RESOLUTION.md`
+- `EVIDENCE.md`
